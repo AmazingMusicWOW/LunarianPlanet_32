@@ -22,7 +22,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Lake Mountains",
 		"author": "Matias Eckerdt",
@@ -30,7 +30,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Blue Night Desert",
 		"author": "Matias Eckerdt",
@@ -38,7 +38,7 @@
 		"collections": "Landscapes,Desert",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Alone Fox",
 		"author": "Matias Eckerdt",
@@ -46,7 +46,7 @@
 		"collections": "Landscapes,Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px" 
-  },
+        },
 	{
 		"name": "Beauty Hills House",
 		"author": "Matias Eckerdt",
@@ -54,7 +54,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Deer Couple",
 		"author": "Matias Eckerdt",
@@ -62,7 +62,7 @@
 		"collections": "Landscapes,Deer",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Flight To Another Planet",
 		"author": "Matias Eckerdt",
@@ -70,7 +70,7 @@
 		"collections": "Desert",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Purple Desert Night",
 		"author": "Matias Eckerdt",
@@ -78,7 +78,7 @@
 		"collections": "Desert",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Savanna",
 		"author": "Matias Eckerdt",
@@ -86,7 +86,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Pine Trees Sunset",
 		"author": "Matias Eckerdt",
@@ -94,7 +94,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Desert Day",
 		"author": "Matias Eckerdt",
@@ -102,7 +102,7 @@
 		"collections": "Desert",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Desert Night",
 		"author": "Matias Eckerdt",
@@ -110,7 +110,7 @@
 		"collections": "Desert",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Sleeping Fox",
 		"author": "Matias Eckerdt",
@@ -118,7 +118,7 @@
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Sleeping Fox 1",
 		"author": "Matias Eckerdt",
@@ -126,7 +126,7 @@
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Sleeping Fox 2",
 		"author": "Matias Eckerdt",
@@ -134,7 +134,7 @@
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Sleeping Fox 3",
 		"author": "Matias Eckerdt",
@@ -142,7 +142,7 @@
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Sleeping Fox 4",
 		"author": "Matias Eckerdt",
@@ -150,7 +150,7 @@
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Sleeping Fox 5",
 		"author": "Matias Eckerdt",
@@ -158,7 +158,7 @@
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Peaceful Night Sky",
 		"author": "Matias Eckerdt",
@@ -166,7 +166,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Peaceful Night Sky 1",
 		"author": "Matias Eckerdt",
@@ -174,7 +174,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Peaceful Night Sky 2",
 		"author": "Matias Eckerdt",
@@ -182,7 +182,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Peaceful Night Sky 3",
 		"author": "Matias Eckerdt",
@@ -190,7 +190,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beautiful Forest",
 		"author": "Matias Eckerdt",
@@ -198,7 +198,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Sunset Deer",
 		"author": "Matias Eckerdt",
@@ -206,7 +206,7 @@
 		"collections": "Landscapes,Deer",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Village Lake",
 		"author": "Matias Eckerdt",
@@ -214,7 +214,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beautiful Flowers",
 		"author": "Matias Eckerdt",
@@ -222,7 +222,7 @@
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beautiful Flowers 1",
 		"author": "Matias Eckerdt",
@@ -230,7 +230,7 @@
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beautiful Flowers 2",
 		"author": "Matias Eckerdt",
@@ -238,7 +238,7 @@
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Leaves",
 		"author": "Matias Eckerdt",
@@ -246,7 +246,7 @@
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Pink Mountains",
 		"author": "Matias Eckerdt",
@@ -254,15 +254,15 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
-	{
+        },
+ 	{
 		"name": "Orange Desert",
 		"author": "Matias Eckerdt",
 		"url": "https://github.com/AmazingMusicWOW/LunarianPlanet_32/raw/main/OrangeDesert.png",
 		"collections": "Desert",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Orange Desert 1",
 		"author": "Matias Eckerdt",
@@ -270,7 +270,7 @@
 		"collections": "Desert",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Purple Mountains",
 		"author": "Matias Eckerdt",
@@ -278,7 +278,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Foxie",
 		"author": "Matias Eckerdt",
@@ -286,7 +286,7 @@
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Foxie 1",
 		"author": "Matias Eckerdt",
@@ -294,7 +294,7 @@
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Foxie 2",
 		"author": "Matias Eckerdt",
@@ -302,7 +302,7 @@
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Minimal Flowers",
 		"author": "Matias Eckerdt",
@@ -310,7 +310,7 @@
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Minimal Flowers 1",
 		"author": "Matias Eckerdt",
@@ -318,7 +318,7 @@
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Minimal Flowers 2",
 		"author": "Matias Eckerdt",
@@ -326,7 +326,7 @@
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Minimal Flowers 3",
 		"author": "Matias Eckerdt",
@@ -334,7 +334,7 @@
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Minimal Flowers 4",
 		"author": "Matias Eckerdt",
@@ -342,7 +342,7 @@
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Minimal Flowers 5",
 		"author": "Matias Eckerdt",
@@ -350,7 +350,7 @@
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Pink Mountains",
 		"author": "Matias Eckerdt",
@@ -358,7 +358,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Red Desert",
 		"author": "Matias Eckerdt",
@@ -366,7 +366,7 @@
 		"collections": "Desert",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "ColorFull Forest",
 		"author": "Matias Eckerdt",
@@ -374,7 +374,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Koi",
 		"author": "Matias Eckerdt",
@@ -382,7 +382,7 @@
 		"collections": "Koi",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Koi 1",
 		"author": "Matias Eckerdt",
@@ -390,7 +390,7 @@
 		"collections": "Koi",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Koi 2",
 		"author": "Matias Eckerdt",
@@ -398,7 +398,7 @@
 		"collections": "Koi",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Koi 3",
 		"author": "Matias Eckerdt",
@@ -406,7 +406,7 @@
 		"collections": "Koi",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Koi 4",
 		"author": "Matias Eckerdt",
@@ -414,7 +414,7 @@
 		"collections": "Koi",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Koi",
 		"author": "Matias Eckerdt",
@@ -422,7 +422,7 @@
 		"collections": "Koi",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Japan Mountain",
 		"author": "Matias Eckerdt",
@@ -430,7 +430,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "ColorFull Desert",
 		"author": "Matias Eckerdt",
@@ -438,7 +438,7 @@
 		"collections": "Desert",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Plant Set",
 		"author": "Matias Eckerdt",
@@ -446,15 +446,15 @@
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
-	{
+        },
+ 	{
 		"name": "Plant Set 1",
 		"author": "Matias Eckerdt",
 		"url": "https://github.com/AmazingMusicWOW/LunarianPlanet_32/raw/main/PlantSet1.png",
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Plant Set 2",
 		"author": "Matias Eckerdt",
@@ -462,7 +462,7 @@
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Plant Set 3",
 		"author": "Matias Eckerdt",
@@ -470,7 +470,7 @@
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Purple Mountains",
 		"author": "Matias Eckerdt",
@@ -478,7 +478,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Sunset Mountains",
 		"author": "Matias Eckerdt",
@@ -486,7 +486,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Cute Foxie",
 		"author": "Matias Eckerdt",
@@ -494,7 +494,7 @@
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Cute Foxie 1",
 		"author": "Matias Eckerdt",
@@ -502,7 +502,7 @@
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Cute Foxie 2",
 		"author": "Matias Eckerdt",
@@ -510,7 +510,7 @@
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Cute Foxie 3",
 		"author": "Matias Eckerdt",
@@ -518,7 +518,7 @@
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beauty Desert",
 		"author": "Matias Eckerdt",
@@ -526,7 +526,7 @@
 		"collections": "Desert",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Beautiful Mountains",
 		"author": "Matias Eckerdt",
@@ -534,7 +534,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Little Foxie",
 		"author": "Matias Eckerdt",
@@ -542,7 +542,7 @@
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Little Foxie 1",
 		"author": "Matias Eckerdt",
@@ -550,7 +550,7 @@
 		"collections": "Fox",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Snow Mountain",
 		"author": "Matias Eckerdt",
@@ -558,7 +558,7 @@
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Minimal Tree",
 		"author": "Matias Eckerdt",
@@ -566,7 +566,7 @@
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Minimal Tree 1",
 		"author": "Matias Eckerdt",
@@ -574,7 +574,7 @@
 		"collections": "Floral",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
-  },
+        },
 	{
 		"name": "Minimal Tree 2",
 		"author": "Matias Eckerdt",
