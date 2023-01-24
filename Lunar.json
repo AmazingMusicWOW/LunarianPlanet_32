@@ -1,5 +1,21 @@
 [
 	{       
+		"name": "Green Night Wolf",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/GreenNightWolf.png",
+		"collections": "Wolf",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty JellyFish",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyJellyFish.png",
+		"collections": "Jelly",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
 		"name": "Night Fox",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/NightFox.png",
