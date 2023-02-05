@@ -728,22 +728,6 @@
 		"dimensions": "1440 x 3200 px"
         },
 	{
-		"name": "Plant Set 2",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/PlantSet2.png",
-		"collections": "Floral",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-        },
-	{
-		"name": "Plant Set 3",
-		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/PlantSet3.png",
-		"collections": "Floral",
-		"downloadable": false,
-		"dimensions": "1440 x 3200 px"
-        },
-	{
 		"name": "Beauty Purple Mountains",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyPurpleMountains.png",
