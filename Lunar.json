@@ -1,5 +1,21 @@
 [
 	{       
+		"name": "Beauty ColorFull Landscape",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyColorFullLandscape.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Lonely Ship In Desert",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/LonelyShipInDesert.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
 		"name": "Little Deer In The Forest",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/LittleDeerInTheForest.png",
