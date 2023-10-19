@@ -1,5 +1,29 @@
 [
 	{       
+		"name": "Beautiful Red Bird",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautifulOasisDesert.png",
+		"collections": "Birds",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimal Gradient Mountains",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/MinimalGradientMountains.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Minimal Gradient Mountains 1",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/MinimalGradientMountains1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
 		"name": "Beautiful Oasis Desert",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautifulOasisDesert.png",
