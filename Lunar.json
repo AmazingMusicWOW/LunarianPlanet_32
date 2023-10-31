@@ -1,8 +1,8 @@
 [
 	{       
 		"name": "Cute Halloween Cat",
-		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/CuteHalloweenCat.png",
+		"author": "Matias Eckerdt",
 		"thumbnail": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/LunarPreview4.png",
 		"collections": "Halloween",
 		"downloadable": false,
@@ -10,8 +10,8 @@
 	},
 	{
 		"name": "Cute Halloween Cat 1",
-		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/CuteHalloweenCat1.png",
+		"author": "Matias Eckerdt",
 		"thumbnail": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/LunarPreview3.png",
 		"collections": "Halloween",
 		"downloadable": false,
@@ -19,8 +19,8 @@
 	},
 	{
 		"name": "Cute Halloween Cat 2",
-		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/CuteHalloweenCat2.png",
+		"author": "Matias Eckerdt",
 		"thumbnail": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/LunarPreview2.png",
 		"collections": "Halloween",
 		"downloadable": false,
@@ -28,8 +28,8 @@
 	},
 	{
 		"name": "Halloween Skull",
-		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/HalloweenSkull.png",
+		"author": "Matias Eckerdt",
 		"thumbnail": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/LunarPreview1.png",
 		"collections": "Halloween",
 		"downloadable": false,
@@ -37,8 +37,8 @@
 	},
 	{
 		"name": "Beautiful Red Bird",
-		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautifulRedBird.png",
+		"author": "Matias Eckerdt",
 		"thumbnail": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/LunarPreview5.png",
 		"collections": "Birds",
 		"downloadable": false,
@@ -46,8 +46,8 @@
 	},
 	{
 		"name": "Minimal Gradient Mountains",
-		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/MinimalGradientMountains.png",
+		"author": "Matias Eckerdt",
 		"thumbnail": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/LunarPreview6.png",
 		"collections": "Landscapes",
 		"downloadable": false,
