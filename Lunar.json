@@ -1,5 +1,21 @@
 [
 	{       
+		"name": "Amazing House Forest",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/AmazingHouseForest.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "Beauty Fox Wind",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyFoxWind.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
 		"name": "Sunrise Winter",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/SunriseWinter.png",
