@@ -1,5 +1,21 @@
 [
 	{       
+		"name": "Beauty Snow Mountains Sun",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautySnowMountainsSun.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "AirPLane Sunset",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/AirPlaneSunset.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
 		"name": "Alone Astronaut Space",
 		"author": "Matias Eckerdt",
 		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/AloneAstronautSpace.png",
