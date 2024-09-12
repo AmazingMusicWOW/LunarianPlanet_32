@@ -1,16 +1,24 @@
 [
 	{       
-		"name": "Beauty Koi Sakura",
+		"name": "Beauty Colors Desert",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyKoiSakura.png",
-		"collections": "Koi",
+		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/BeautyColorsDesert.png",
+		"collections": "Desert",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
 	},
 	{
-		"name": "Another Planet Purple",
+		"name": "Another Planet Night",
 		"author": "Matias Eckerdt",
-		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/AnotherPlanetPurple.png",
+		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/AnotherPlanetNight.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "1440 x 3200 px"
+	},
+	{
+		"name": "New Minimal House",
+		"author": "Matias Eckerdt",
+		"url": "https://raw.githubusercontent.com/AmazingMusicWOW/LunarianPlanet_32/master/NewMinimalHouse.png",
 		"collections": "Landscapes",
 		"downloadable": false,
 		"dimensions": "1440 x 3200 px"
